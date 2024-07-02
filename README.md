@@ -1,5 +1,5 @@
-## Welcome to my bio 😁
-# I'm Roberto Lima aka Beto Mori
+# Welcome to my bio 😁
+## I'm Roberto Lima aka Beto Mori
 
  <div>
    <a href="https://github.com/Beto-Mori">
