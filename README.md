@@ -17,7 +17,7 @@
  
 <br>
  
-### You can contact me by:
+### You can contact me on my...:
  
 <div> 
   <a href="https://www.linkedin.com/in/roberto-s-lima-a28575164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
